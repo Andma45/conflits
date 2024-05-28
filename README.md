@@ -1,3 +1,5 @@
+REMOTE
+
 # conflits
 
 Si tu n'as jamais entendu parler de conflits dans git, ne t'inquiète pas, tu auras à les gérer assez souvent en travaillant sur certains projets d'équipe.
