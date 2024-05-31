@@ -24,3 +24,7 @@ reset (hard ou soft)
 revert
 
 checkout
+
+# Test 
+
+On va essayer de faire un commit sur une branche
